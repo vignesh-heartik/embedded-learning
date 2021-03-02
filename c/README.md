@@ -1,5 +1,3 @@
-# KM40BESD01 
-
 # 'C' Programming Basics
 
 ## 22nd FEB 2021
